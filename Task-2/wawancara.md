@@ -5,6 +5,7 @@
 
 **Link:**
 
+
 Kakak sudah berapa lama berkarir di bidang UX ?
 > Jadi, awal mulanya itu dari kuliah. Kemudian mengambil ujian Teknik Informatika. Dari situ, terdapat tiga jalur yaitu program, keamanan jaringan atau multimedia. Nah, saya masuk ke bagian multimedia khususnya UI/UX. Itu dimulainya itu sudah 2 tahun, berarti sekitar tahun 2018. 
 
