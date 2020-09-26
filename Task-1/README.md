@@ -27,8 +27,12 @@ Pemilihan kaca juga merupakan salah satu factor yang berpengaruh dalam pemantula
 
 ### UX Mockup Perbaikan Design
 Before
- 
+
+![Image of before-building](https://github.com/diyahanggraeny/IMK-Assignment1/blob/master/Task-1/improved-design/before-design.jpeg)
+
 After
+
+![Image of after-building](https://github.com/diyahanggraeny/IMK-Assignment1/blob/master/Task-1/improved-design/after-design.jpeg)
  
 
 
