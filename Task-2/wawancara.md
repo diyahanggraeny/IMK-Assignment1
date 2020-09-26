@@ -1,5 +1,5 @@
 ## Hasil Wawancara
-**Narasumber:** Kak Fini Charisa ( pemilik akun Instagram @fin.designn)
+**Narasumber:** Kak Fini Charisa (pemilik akun Instagram @fin.designn)
 
 **Media wawancara:** Kami melakukan wawancara ini melalui Whatsapp Group call pada tanggal 25 September 2020.
 
