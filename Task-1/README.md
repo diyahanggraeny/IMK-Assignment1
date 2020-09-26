@@ -23,7 +23,7 @@ Bentuk Gedung yang cekung ini adalah salah satu factor dari timbulnya pantulan c
 
 2.	Menggunakan Kaca Double Glass
 
-Pemilihan kaca juga merupakan salah satu factor yang berpengaruh dalam pemantulan cahaya yang terjadi.. Menurut kami, solusi yang dapat diberikan pada hal ini adalah penggunaan kaca double glass. Kaca double glass dapat menerima cahaya matahari dari luar secara maksimal namun juga efektif untuk meredam panas dari luar.
+Pemilihan kaca juga merupakan salah satu factor yang berpengaruh dalam pemantulan cahaya yang terjadi. Menurut kami, solusi yang dapat diberikan pada hal ini adalah penggunaan kaca double glass. Kaca double glass dapat menerima cahaya matahari dari luar secara maksimal namun juga efektif untuk meredam panas dari luar.
 
 ### UX Mockup Perbaikan Design
 Before
