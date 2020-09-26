@@ -3,7 +3,7 @@
 
 **Media wawancara:** Kami melakukan wawancara ini melalui Whatsapp Group call pada tanggal 25 September 2020.
 
-**Link:**
+**Link:** https://youtu.be/8UHOJ3hP7CQ
 
 
 Kakak sudah berapa lama berkarir di bidang UX ?
