@@ -18,9 +18,11 @@ Desain error dari Gedung The Walkie-Talkie adalah dari model desain Gedung yang 
 
 ### Saran untuk Desain
 1.	Membuat Design Gedung yang Tidak Berbentuk Cekung
+
 Bentuk Gedung yang cekung ini adalah salah satu factor dari timbulnya pantulan cahaya tersebut. Padahal arsitek dari Gedung ini sudah menyadari bahwa bentuk Gedung ini jika tidak menggunakan alat dan perhitungan yang baik akan menimbulkan permasalahan. Menurut kami, jika memang adanya kekurangan dana dalam pembangunan, Gedung ini seharusnya tidak usah dipaksakan untuk memiliki bentuk yang cekung. Walaupun memiliki bentuk yang indah namun Gedung ini justru akan membahayakan orang lain. Sehingga kami menyarankan supaya bentuk Gedung ini dibuat jangan berbentuk cekung. 
 
 2.	Menggunakan Kaca Double Glass
+
 Pemilihan kaca juga merupakan salah satu factor yang berpengaruh dalam pemantulan cahaya yang terjadi.. Menurut kami, solusi yang dapat diberikan pada hal ini adalah penggunaan kaca double glass. Kaca double glass dapat menerima cahaya matahari dari luar secara maksimal namun juga efektif untuk meredam panas dari luar.
 
 ### UX Mockup Perbaikan Design
