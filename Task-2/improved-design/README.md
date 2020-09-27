@@ -11,6 +11,6 @@ Menurut kami. bagian pilihan facilities yang ada masih tergolong kurang karena m
 
 **Before**
 
-<img src="https://github.com/diyahanggraeny/IMK-Assignment1/blob/master/Task-2/interviwee-design-items/filter-room.png" width="600">
+<img src="https://github.com/diyahanggraeny/IMK-Assignment1/blob/master/Task-2/interviwee-design-items/filter-room.png" width="900">
 
 **After**
