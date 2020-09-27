@@ -15,4 +15,4 @@ Menurut kami. bagian pilihan facilities yang ada masih tergolong kurang karena m
 
 **After**
 
-<img src="https://github.com/diyahanggraeny/IMK-Assignment1/blob/master/Task-2/improved-design/Improvement.png" width="300">
+<img src="https://github.com/diyahanggraeny/IMK-Assignment1/blob/master/Task-2/improved-design/Improvement.png" width="200">
