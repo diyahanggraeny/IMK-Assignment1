@@ -8,7 +8,7 @@ The Walkie-Talkie adalah nama sebuah Gedung tinggi yang berukuran 160 m, terleta
 
 Banyak sekali kejadian yang terjadi berkaitan dengan Gedung ini, Salah satunya, pada awal September tahun 2013, bagian plastik mobil Jaguar XJ yang parkir di jalanan dekat Gedung ini dikabarkan meleleh.
 
-<img src="https://ichef.bbci.co.uk/news/800/media/images/69606000/jpg/_69606115_69601806.jpg" width="300">
+<img src="https://ichef.bbci.co.uk/news/800/media/images/69606000/jpg/_69606115_69601806.jpg" width="500">
 
 
 Alasan terjadinya kejadian ini dikabarkan dikarenakan oleh pantulan cahaya dari Gedung The Walkie-Talkie. Pantulan cahaya dari Gedung ini dikabarkan juga pernah melelehkan plastic,karpet dan keset hingga membakar pendudukan sepeda. Pantulan cahaya dari Gedung ini dikabarkan pernah mencapai 91.3oC. Satpam sekitar menyatakan bahwa permasalahan ini dapat terjadi selama dua jam dalam sehari selama dua atau tiga minggu per tahun. Arsitek dari Gedung ini juga mengaku bahwa rancangannya dapat menyebabkan permasalahan namun kurangnya alat dan software untuk melakukan perhitungan membuatnya tidak dapat mencegah permasalahan ini terjadi.
