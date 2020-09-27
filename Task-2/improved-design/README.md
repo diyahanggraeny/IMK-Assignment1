@@ -10,6 +10,6 @@ Menurut kami, price range lebih baik untuk diketik sendiri oleh user. Hal ini di
 Menurut kami. bagian pilihan facilities yang ada masih tergolong kurang karena masih banyak fasilitas lain yang diperlukan oleh user. Oleh karena itu, kami menambahkan pilihan Swimming pool, Fitness center, dan Meeting Facilities. 
 
 **Before**
-
+<img src="https://github.com/diyahanggraeny/IMK-Assignment1/blob/master/Task-2/interviwee-design-items/filter-room.png" width="300">
 
 **After**
