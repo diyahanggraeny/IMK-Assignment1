@@ -9,4 +9,4 @@
 https://github.com/diyahanggraeny/IMK-Assignment1/tree/hw2/Task-1
 
 ### Task 2
-
+https://github.com/diyahanggraeny/IMK-Assignment1/tree/hw2/Task-2
