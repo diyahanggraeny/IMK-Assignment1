@@ -1,4 +1,4 @@
-## Assignment 1
+## Assignment 2
 
 ### Team G
 1. M.Izzat Ibrahim (1313618031)
@@ -6,7 +6,7 @@
 3. Rachel Haryawan (1313618026)
 
 ### Task 1
-
+https://github.com/diyahanggraeny/IMK-Assignment1/tree/hw2/Task-1
 
 ### Task 2
 
