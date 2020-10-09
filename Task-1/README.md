@@ -6,6 +6,8 @@
 	<img src="https://lh3.googleusercontent.com/ZlDcktISuUKm5otUEPgELUcjxuk6FGtQvywAaQooAKRSHd3dLFpwxMlXiJXh-5-bGgQ=s180-rw">
 </div>
  
+### 
+
 Aplikasi yang kami pilih dalam evaluasi ini adalah Aplikasi Mie Ayam Jamur Haji Mahmud Reservasi dan Delivery yang dibuat oleh Hendri S,SE. Bagian pertama yang kami evaluasi adalah tampilan utama yaitu login dan sign up. Menurut kami pada halaman ini, tampilan sudah bagus, mudah dimengerti dan mencakup semua kebutuhan sehingga tidak perlu ada yang direvisi.
 
 
