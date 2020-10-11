@@ -13,7 +13,7 @@ Link:
 
 Rachel membuat improvement design 2, software yang digunakan adalah Figma
 
-Link: https://github.com/diyahanggraeny/IMK-Assignment1/tree/hw2/Task-2/Mockup%20Improvement%20Design%202
+Link improvement design 2: https://github.com/diyahanggraeny/IMK-Assignment1/tree/hw2/Task-2/Mockup%20Improvement%20Design%202
 
 ### Day 3rd
 
