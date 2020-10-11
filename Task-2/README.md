@@ -7,11 +7,15 @@ Link subtitle : https://github.com/diyahanggraeny/IMK-Assignment1/blob/hw2/Task-
 
 
 ### Day 2nd (Kamis, 8 Oktober 2020 & Jumat, 9 Oktober 2020)
-Izzat membuat improvement design 1, software yang digunakan adalah Inkscape
+<h3> DESIGN 1 </h3>
+
+Software yang digunakan adalah Inkscape
 
 Link:
 
-Rachel membuat improvement design 2, software yang digunakan adalah Figma
+<h3> DESIGN 2 </h3>
+
+Software yang digunakan adalah Figma
 
 Link improvement design 2: https://github.com/diyahanggraeny/IMK-Assignment1/tree/hw2/Task-2/Mockup%20Improvement%20Design%202
 
