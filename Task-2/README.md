@@ -23,7 +23,7 @@ File Figma: https://github.com/diyahanggraeny/IMK-Assignment1/blob/hw2/Task-2/Mo
 
 ### Day 3rd (Sabtu, 10 Oktober 2020)
 
-Link Record + Subtitles: https://youtu.be/EfxM1CsvIeA
+Link Record: https://youtu.be/EfxM1CsvIeA
 
 Link Subtitle yang sudah dirapikan: https://github.com/diyahanggraeny/IMK-Assignment1/blob/hw2/Task-2/subs/3rd%20Day%20Subtitle.md
 
