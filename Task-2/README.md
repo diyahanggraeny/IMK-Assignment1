@@ -29,4 +29,6 @@ Link Subtitle yang sudah dirapikan: https://github.com/diyahanggraeny/IMK-Assign
 
 Link Subtitle (srt format): https://github.com/diyahanggraeny/IMK-Assignment1/blob/hw2/Task-2/subs/3rd%20Subtitle%20File.srt
 
+Deskripsi singkat tentang Voters: https://github.com/diyahanggraeny/IMK-Assignment1/blob/hw2/Task-2/Voters%20Description.md
+
 ### Day 4th
