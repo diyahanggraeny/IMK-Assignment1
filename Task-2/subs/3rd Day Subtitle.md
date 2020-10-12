@@ -1,5 +1,4 @@
-### 3rd Day Subtitles (Sudah dirapikan)
-File Subtitle: https://github.com/diyahanggraeny/IMK-Assignment1/blob/hw2/Task-2/subs/3rd%20Subtitle%20File.srt
+### 3rd Day Subtitles
 
 <h1> Design 1 [Izzat] </h1>
 
