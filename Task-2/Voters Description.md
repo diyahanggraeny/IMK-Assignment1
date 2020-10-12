@@ -1,6 +1,6 @@
 Jadi, untuk voting antara design 1 dan design 2, kelompok G melibatkan anggota kelompok yang tidak berkompetisi dalam design dan ada juga anggota di luar kelompok yang merupakan saudara atau teman dari anggota kelompok G.
 
-Ada 5 voters yang berpartisipasi yaitu:
+Ada 5 orang yang berpartisipasi dalam pemilihan design yaitu:
 
 1. Diyah Anggraeny, anggota dari kelompok G yang tidak berkompetisi membuat design.
 
