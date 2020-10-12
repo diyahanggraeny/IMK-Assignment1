@@ -21,6 +21,8 @@ Link improvement design 2: https://github.com/diyahanggraeny/IMK-Assignment1/tre
 
 File Figma: https://github.com/diyahanggraeny/IMK-Assignment1/blob/hw2/Task-2/Mockup%20Improvement%20Design%202/Mockup%20Improvement%20Design%202%20(Home%2C%20Account%2C%20Menu%2C%20Profile)
 
-### Day 3rd
+### Day 3rd (Sabtu, 10 Oktober 2020)
+
+Link Record + Subtitles: https://youtu.be/EfxM1CsvIeA
 
 ### Day 4th
