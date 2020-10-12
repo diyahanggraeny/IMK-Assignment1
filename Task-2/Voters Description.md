@@ -4,7 +4,7 @@ Ada 5 orang yang berpartisipasi dalam pemilihan design yaitu:
 
 1. Diyah Anggraeny, anggota dari kelompok G yang tidak berkompetisi membuat design.
 
-2. Nila Moena, mahasiswa Ilmu Komputer yang merupakan anggota kelompok lain.
+2. Nilatil Moena, mahasiswa Ilmu Komputer yang merupakan anggota kelompok lain.
 
 3. Annisa, yaitu teman dari Rachel.
 
