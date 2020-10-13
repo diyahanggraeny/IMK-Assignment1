@@ -19,7 +19,9 @@ Bagian ketiga yang kami evaluasi adalah bagian edit profile pada bagian Account.
 	
 Selanjutnya adalah bagian menu untuk delivery. Pada bagian ini, terdapat elemen yang menurut kami kurang rapih yaitu tombol add. Beberapa tombol add dan bagian penjelasan menu cenderung terlalu dekat sehingga tampak kurang bagus. Selain itu, penjelasan menu juga kurang detail.  Gambar juga tidak terlalu mendukung karena gambar yang satu dan lainnya terlihat sama. Setelah melihat lalu memilih menu maka sistem akan mengarahkan ke halaman pesanan. Pada halaman pesanan, menurut kami tidak ada yang perlu direvisi karena sudah cukup bagus dan lengkap datanya.
 	
-	
+
+### Interaction Control
+
 Setelah melakukan reservasi dengan mengisi form reservasi, maka muncul informasi untuk melakukan konfirmasi pembayaran melalui Whatsapp. Menurut kami, bagian ini dapat mengurangi esensi dari aplikasi ini. Karena user harus mengecek di Whatsapp lalu mengecek lagi di aplikasi. Hal ini tentu dapat mengurangi keefektifan interaksi antara sistem dan user. Bagian pemilihan metode pembayaran juga membingungkan. Hanya terdapat satu pilihan metode pembayaran yaitu cash namun saat konfirmasi reservasi kami perlu melakukan transfer uang melalui Bank. Hal ini tentu tidak sesuai dengan keterangan yang ada. Sehingga hal ini masih kurang jelas dan harus direvisi lagi.
 
 
