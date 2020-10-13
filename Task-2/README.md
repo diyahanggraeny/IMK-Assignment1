@@ -33,7 +33,7 @@ Little Description (How the tester involved) : https://github.com/diyahanggraeny
 
 ### Day 4th (Sabtu, 10 Oktober 2020)
 
-Link Record : 
+Link Record : https://youtu.be/56ZJDfdIVMg
 
 Link Subtitle :
 
