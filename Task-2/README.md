@@ -13,6 +13,8 @@ Software yang digunakan adalah Inkscape
 
 Link: https://github.com/diyahanggraeny/IMK-Assignment1/tree/hw2/Task-2/Mockup%20Improvrmrnt%20Design%201
 
+File Inkscape format SVG : https://github.com/diyahanggraeny/IMK-Assignment1/tree/hw2/Task-2/Mockup%20Improvrmrnt%20Design%201/Mockup%20Format%20SVG
+
 <h3> DESIGN 2 </h3>
 
 Software yang digunakan adalah Figma
