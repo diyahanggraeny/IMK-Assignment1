@@ -35,5 +35,5 @@ Little Description (How the tester involved) : https://github.com/diyahanggraeny
 
 Link Record : https://youtu.be/56ZJDfdIVMg
 
-Link Subtitle :
+Link Subtitle : https://github.com/diyahanggraeny/IMK-Assignment1/blob/hw2/Task-2/subs/4th%20Day%20Subtitle.md
 
