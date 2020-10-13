@@ -31,4 +31,9 @@ Link Subtitle (srt format): https://github.com/diyahanggraeny/IMK-Assignment1/bl
 
 Little Description (How the tester involved) : https://github.com/diyahanggraeny/IMK-Assignment1/blob/hw2/Task-2/Voters%20Description.md
 
-### Day 4th
+### Day 4th (Sabtu, 10 Oktober 2020)
+
+Link Record : 
+
+Link Subtitle :
+
