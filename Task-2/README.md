@@ -11,7 +11,7 @@ Link subtitle : https://github.com/diyahanggraeny/IMK-Assignment1/blob/hw2/Task-
 
 Software yang digunakan adalah Inkscape
 
-Link:
+Link: https://github.com/diyahanggraeny/IMK-Assignment1/tree/hw2/Task-2/Mockup%20Improvrmrnt%20Design%201
 
 <h3> DESIGN 2 </h3>
 
