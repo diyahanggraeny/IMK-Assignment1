@@ -17,7 +17,7 @@ Riwayat Kuliah : Mikroskil lulusan 2018
 
 Pekerjaan : Programmer dan freelancer
 
-Kelompok G menemukan Kak Kevin dan aplikasi Mi Ayam Jamur Haji Mahmud Reservasi dan Delivery ini dari instagram, lalu kelompok G menghubungi Kak Kevin via instagram juga untuk mengatur meeting via Zoom.
+Awalnya, kelompok G menemukan aplikasi Mi Ayam Jamur Haji Mahmud Reservasi dan Delivery ini dari instagram kak Kevin, lalu kelompok G menghubungi Kak Kevin via instagram juga untuk mengatur meeting via Zoom.
 
 Profile Instagram kak Kevin: https://instagram.com/kevinbowie02?igshid=1mqwu9heled9w
 
