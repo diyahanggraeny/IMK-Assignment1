@@ -23,6 +23,8 @@ Link improvement design 2: https://github.com/diyahanggraeny/IMK-Assignment1/tre
 
 File Figma: https://github.com/diyahanggraeny/IMK-Assignment1/blob/hw2/Task-2/Mockup%20Improvement%20Design%202/Mockup%20Improvement%20Design%202%20(Home%2C%20Account%2C%20Menu%2C%20Profile)
 
+Material Design Principle Design 2: https://github.com/diyahanggraeny/IMK-Assignment1/blob/hw2/Task-2/Mockup%20Improvement%20Design%202/Prinsip%20Design%202.pdf
+
 ### Day 3rd (Sabtu, 10 Oktober 2020)
 
 Link Record: https://youtu.be/EfxM1CsvIeA
