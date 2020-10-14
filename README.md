@@ -17,7 +17,6 @@ Riwayat Kuliah : Mikroskil lulusan 2018
 
 Pekerjaan : Programmer dan freelancer
 
-### Data Developer
 
 ### Task 1
 https://github.com/diyahanggraeny/IMK-Assignment1/tree/hw2/Task-1
