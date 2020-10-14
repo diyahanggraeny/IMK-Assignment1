@@ -41,3 +41,4 @@ Link Record : https://youtu.be/56ZJDfdIVMg
 
 Link Subtitle : https://github.com/diyahanggraeny/IMK-Assignment1/blob/hw2/Task-2/subs/4th%20Day%20Subtitle.md
 
+Material Design Principle Design 2: https://github.com/diyahanggraeny/IMK-Assignment1/blob/hw2/Task-2/Mockup%20Improvement%20Design%202/Prinsip%20Design%202.pdf
