@@ -5,6 +5,11 @@
 2. Diyah Anggraeny (1313618005)
 3. Rachel Haryawan (1313618026)
 
+### Aplikasi yang dianalisis
+Mie Ayam Jamur Haji Mahmud Reservasi dan Delivery
+
+### Data Developer
+
 ### Task 1
 https://github.com/diyahanggraeny/IMK-Assignment1/tree/hw2/Task-1
 
