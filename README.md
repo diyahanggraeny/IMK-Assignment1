@@ -8,6 +8,12 @@
 ### Aplikasi yang dianalisis
 Mie Ayam Jamur Haji Mahmud Reservasi dan Delivery
 
+### Data App Developer
+Nama : Kevin Bowie
+Lokasi : Medan
+Riwayat Kuliah : Mikroskil lulusan 2018
+Pekerjaan : Programmer dan freelancer
+
 ### Data Developer
 
 ### Task 1
